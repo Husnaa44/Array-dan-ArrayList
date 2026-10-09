@@ -286,6 +286,5 @@ public void tambahCustomer(String namaDepan, String namaBelakang) {
 
 <div align="center">
 
-⭐ Dibuat untuk memenuhi tugas mata kuliah **Pemrograman Berorientasi Objek (PBO)** ⭐
 
 </div>
